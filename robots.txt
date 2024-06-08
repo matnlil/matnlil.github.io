@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jfrikas.github.io/sitemap/sitemap.txt
